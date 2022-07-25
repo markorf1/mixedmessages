@@ -25,6 +25,8 @@ const data = {
 
 module.exports.data = data;
 
+// btw the 
+
 // const data = {
 //     'strang3cr0w': [/*strang3Cr0w array*/],
 //     'tr_h3x': [/*Tr array*/],
@@ -33,3 +35,19 @@ module.exports.data = data;
 //     'tmacchi': [/*jose array*/],
 //     // maybe we could add more?
 // };
+
+
+// Boody's array:  
+/* "boody": {
+        0: {there: ["Joe"],
+            who: ["Joe MAMA!"]
+        },
+        1: {there: ["mom"],
+            who: ["DOIN' YOUR MOM!"]
+            // if you know, you know
+        },
+        2: {there: ["Ligma"],
+            who: ["Did you really fall for that?"]
+        },
+        }
+*/
