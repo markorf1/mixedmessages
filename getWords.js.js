@@ -1,11 +1,5 @@
-const data = {
-    'strang3cr0w': [/*strang3Cr0w array*/],
-    'tr_h3x': [/*Tr array*/],
-    'boody': [/*boody array*/],
-    'markorf1': [/*mark array*/],
-    'tmacchi': [/*jose array*/],
-    // maybe we could add more?
-};
+import {data} from './appData';
+
 // Or we could do...
 // import {data} from "#"
 
