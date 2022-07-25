@@ -24,8 +24,8 @@ const data = {
 };
 
 module.exports.data = data;
+// for ES6 use: export {data}
 
-// btw the 
 
 // const data = {
 //     'strang3cr0w': [/*strang3Cr0w array*/],
