@@ -51,3 +51,49 @@ module.exports.data = data;
         },
         }
 */
+
+//Strang3Crow's list of jokes, please add it to the data object:
+const strang3Data = {
+    'strang3cr0w': {
+        0: {
+            there: ["Solar"],
+            who: ["Solar you going to think of a better joke?"]
+        },
+        1: {
+            there: ["Marsbar"],
+            who: ["Marsbar, astronauts chocolate bar of choice! Do you want to buy any?"]
+        },
+        2: {
+            there: ["Luna-tick"],
+            who: ["Luna-tick, a tick visiting from the moon!"]
+        },
+        3: {
+            there: ["Planet"],
+            who: ["Planet, here to help organize your moon mission"]
+        },
+        4: {
+            there: ["Space"],
+            who: ["Space, here to give you some space"]
+        },
+        5: {
+            there: ["Parellel Universe"],
+            who: ["Knock, Knock. Who's there? Parellel Universe. Parellel Universe who? Knock, Knock. Who's there? Parellel Universe. Parellel Universe who? Knock, Knock. Who's there? Parellel Universe. Parellel Universe who?..."]
+        },
+        6: {
+            there: ["Cow"],
+            who: ["Cow Moooooon"]
+        },
+        7: {
+            there: ["Meteor"],
+            who: ["Meteor Doom! Kaboom!"]
+        },
+        8: {
+            there: ["Take me to your leader"],
+            who: ["*Speaks telepathically* Listen here you little shit..."]
+        },
+        9: {
+            there: ["Sun"],
+            who: ["Sun, I am your father"]
+        },
+    },
+}
