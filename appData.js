@@ -151,3 +151,49 @@ const strang3Data = {
         },
     },
 }
+
+//first attempt at editing, so hopefully all goes well
+const trHexData = {
+    'trHex': {
+        0: {
+            there: ["Ahsoka"],
+            who: ["Ahsoka my beans before I cook ’em"]
+        },
+        1: {
+            there: ["Luke"],
+            who: ["Luke out! Here comes another knock knock joke!"]
+        },
+        2: {
+            there: ["Philip"],
+            who: ["Please Philip my gas tank to full, I have a long ride ahead!"]
+        },
+        3: {
+            there: ["Carl"],
+            who: ["A Carl get you to the place faster than a motorcycle"]
+        },
+        4: {
+            there: ["Yacht"],
+            who: ["Yacht to know me by now!"]
+        },
+        5: {
+            there: ["Ohms!"],
+            who: ["Sherlock Ohms at your service!"]
+        },
+        6: {
+            there: ["Doctor"],
+            who: ["That's my favorite science fiction show, how did you know?"]
+        },
+        7: {
+            there: ["Europe"],
+            who: ["I AM NOT A POO! HOW DARE YOU."]
+        },
+        8: {
+            there: ["THE PILOT!"],
+            who: ["LET ME IN OR WE'RE ALL GONNA DIE!"]
+        },
+        9: {
+            there: ["Tank"],
+            who: ["You're welcome."]
+        },
+    },
+}
