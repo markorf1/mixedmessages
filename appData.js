@@ -1,57 +1,29 @@
 const data = {
-    0: {
-        there: ['Nobel'],
-        who: ["Nobel…that’s why I knocked!"]
+    'strang3cr0w':{
+        0: {there: ['Nobel'],
+            who: ["Nobel…that’s why I knocked!"]
+        },
+        1: {there: ['Tank'],
+            who: ["You're welcome"]
+        },
+        2: {there: ["Luke"],
+            who: ["Luke through the peep hole and find out"]
+        },
     },
-
-    1: {
-        there: ['Tank'],
-        who: ["You're welcome"]
+    'tmacchi':{
+        0: {there: ["Figs"],
+            who: ["Figs the doorbel, it's not working!"]
+        },
+        1: {there: ["Annie"],
+            who: ["Annie thing you can do I can do too!"]
+        },
+        2: {there: ["Cow says"],
+            who: ["No, a cow says moo"]
+        }
     },
+};
 
-    2: {
-        there: ['Luke'],
-        who: ['Luke through the peep hole and find out.']
-    },
-
-    3: {
-        there: ['Figs'],
-        who: ["Figs the doorbell, it's not working!"]
-    },
-
-    4: {
-        there: ['Annie'],
-        who: ['Annie thing you can do, I can do too!']
-    },
-
-    5: {
-        there: ['Cow says'],
-        who: ['No, a cow says mooooo']
-    },
-
-    6: {
-        there: ['Hal'],
-        who: ["Hal will you know if you don’t open the door?"]
-    },
-
-    7: {
-        there: ['Alice'],
-        who: ["Alice fair in love and war."]
-    },
-
-    8: {
-        there: ['Says'],
-        who: ["Says me!"]
-    },
-
-    9: {
-        there: ['Honey bee'],
-        who: ["Honey bee a dear and get that for me please!"]
-    }
-    
-}
-
-export {data}
+module.exports.data = data;
 
 // const data = {
 //     'strang3cr0w': [/*strang3Cr0w array*/],
